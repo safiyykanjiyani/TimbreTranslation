@@ -6,9 +6,6 @@ This is done through digital singal processing.
 
 Usage: 
 
-'
-python timbreTranfer.py
-
-'
+`python timbreTranfer.py`
 
 You can adjust the sound files and the level of transfer in the `timbreTransfer.py` file 
